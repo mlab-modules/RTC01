@@ -1,12 +1,9 @@
 
 [Czech](./README.cs.md)
 <!--- module --->
-# RTC01A
-<!--- Emodule --->
+# RTC01A - Real Time Clock Module with I2C access
 
-<!--- subtitle --->Real Time Clock Modules<!--- Esubtitle --->
+![RTC01A](doc/img/RTC01A_top_small.jpg)
 
-![RTC01A](/doc/img/RTC01A_QRcode.png)
-
-<!--- description --->Replaced RTC02A<!--- Edescription --->
+<!--- description --->Replaced by [RTC02A](https://github.com/mlab-modules/RTC02)<!--- Edescription --->
             
