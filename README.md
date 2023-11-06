@@ -5,5 +5,4 @@
 
 ![RTC01A](doc/img/RTC01A_top_small.jpg)
 
-<!--- description --->Replaced by [RTC02A](https://github.com/mlab-modules/RTC02)<!--- Edescription --->
-            
+Replaced by [RTC02A](https://github.com/mlab-modules/RTC02)
